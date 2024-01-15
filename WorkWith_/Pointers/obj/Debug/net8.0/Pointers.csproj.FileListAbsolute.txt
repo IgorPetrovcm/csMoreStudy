@@ -1,0 +1,15 @@
+C:\Users\igorp\Programming\csMoreStudy\WorkWith_\Pointers\bin\Debug\net8.0\Pointers.exe
+C:\Users\igorp\Programming\csMoreStudy\WorkWith_\Pointers\bin\Debug\net8.0\Pointers.deps.json
+C:\Users\igorp\Programming\csMoreStudy\WorkWith_\Pointers\bin\Debug\net8.0\Pointers.runtimeconfig.json
+C:\Users\igorp\Programming\csMoreStudy\WorkWith_\Pointers\bin\Debug\net8.0\Pointers.dll
+C:\Users\igorp\Programming\csMoreStudy\WorkWith_\Pointers\bin\Debug\net8.0\Pointers.pdb
+C:\Users\igorp\Programming\csMoreStudy\WorkWith_\Pointers\obj\Debug\net8.0\Pointers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igorp\Programming\csMoreStudy\WorkWith_\Pointers\obj\Debug\net8.0\Pointers.AssemblyInfoInputs.cache
+C:\Users\igorp\Programming\csMoreStudy\WorkWith_\Pointers\obj\Debug\net8.0\Pointers.AssemblyInfo.cs
+C:\Users\igorp\Programming\csMoreStudy\WorkWith_\Pointers\obj\Debug\net8.0\Pointers.csproj.CoreCompileInputs.cache
+C:\Users\igorp\Programming\csMoreStudy\WorkWith_\Pointers\obj\Debug\net8.0\Pointers.sourcelink.json
+C:\Users\igorp\Programming\csMoreStudy\WorkWith_\Pointers\obj\Debug\net8.0\Pointers.dll
+C:\Users\igorp\Programming\csMoreStudy\WorkWith_\Pointers\obj\Debug\net8.0\refint\Pointers.dll
+C:\Users\igorp\Programming\csMoreStudy\WorkWith_\Pointers\obj\Debug\net8.0\Pointers.pdb
+C:\Users\igorp\Programming\csMoreStudy\WorkWith_\Pointers\obj\Debug\net8.0\Pointers.genruntimeconfig.cache
+C:\Users\igorp\Programming\csMoreStudy\WorkWith_\Pointers\obj\Debug\net8.0\ref\Pointers.dll
