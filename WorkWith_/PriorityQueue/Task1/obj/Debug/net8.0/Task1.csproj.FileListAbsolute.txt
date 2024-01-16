@@ -1,0 +1,15 @@
+C:\Users\igorp\Programming\csMoreStudy\WorkWith_\PriorityQueue\Task1\bin\Debug\net8.0\Task1.exe
+C:\Users\igorp\Programming\csMoreStudy\WorkWith_\PriorityQueue\Task1\bin\Debug\net8.0\Task1.deps.json
+C:\Users\igorp\Programming\csMoreStudy\WorkWith_\PriorityQueue\Task1\bin\Debug\net8.0\Task1.runtimeconfig.json
+C:\Users\igorp\Programming\csMoreStudy\WorkWith_\PriorityQueue\Task1\bin\Debug\net8.0\Task1.dll
+C:\Users\igorp\Programming\csMoreStudy\WorkWith_\PriorityQueue\Task1\bin\Debug\net8.0\Task1.pdb
+C:\Users\igorp\Programming\csMoreStudy\WorkWith_\PriorityQueue\Task1\obj\Debug\net8.0\Task1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igorp\Programming\csMoreStudy\WorkWith_\PriorityQueue\Task1\obj\Debug\net8.0\Task1.AssemblyInfoInputs.cache
+C:\Users\igorp\Programming\csMoreStudy\WorkWith_\PriorityQueue\Task1\obj\Debug\net8.0\Task1.AssemblyInfo.cs
+C:\Users\igorp\Programming\csMoreStudy\WorkWith_\PriorityQueue\Task1\obj\Debug\net8.0\Task1.csproj.CoreCompileInputs.cache
+C:\Users\igorp\Programming\csMoreStudy\WorkWith_\PriorityQueue\Task1\obj\Debug\net8.0\Task1.sourcelink.json
+C:\Users\igorp\Programming\csMoreStudy\WorkWith_\PriorityQueue\Task1\obj\Debug\net8.0\Task1.dll
+C:\Users\igorp\Programming\csMoreStudy\WorkWith_\PriorityQueue\Task1\obj\Debug\net8.0\refint\Task1.dll
+C:\Users\igorp\Programming\csMoreStudy\WorkWith_\PriorityQueue\Task1\obj\Debug\net8.0\Task1.pdb
+C:\Users\igorp\Programming\csMoreStudy\WorkWith_\PriorityQueue\Task1\obj\Debug\net8.0\Task1.genruntimeconfig.cache
+C:\Users\igorp\Programming\csMoreStudy\WorkWith_\PriorityQueue\Task1\obj\Debug\net8.0\ref\Task1.dll
