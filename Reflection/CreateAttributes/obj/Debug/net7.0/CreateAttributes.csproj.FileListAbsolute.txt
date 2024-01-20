@@ -1,0 +1,14 @@
+C:\Users\Honor\Desktop\Programming\csMoreStudy\Reflection\CreateAttributes\bin\Debug\net7.0\CreateAttributes.exe
+C:\Users\Honor\Desktop\Programming\csMoreStudy\Reflection\CreateAttributes\bin\Debug\net7.0\CreateAttributes.deps.json
+C:\Users\Honor\Desktop\Programming\csMoreStudy\Reflection\CreateAttributes\bin\Debug\net7.0\CreateAttributes.runtimeconfig.json
+C:\Users\Honor\Desktop\Programming\csMoreStudy\Reflection\CreateAttributes\bin\Debug\net7.0\CreateAttributes.dll
+C:\Users\Honor\Desktop\Programming\csMoreStudy\Reflection\CreateAttributes\bin\Debug\net7.0\CreateAttributes.pdb
+C:\Users\Honor\Desktop\Programming\csMoreStudy\Reflection\CreateAttributes\obj\Debug\net7.0\CreateAttributes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Honor\Desktop\Programming\csMoreStudy\Reflection\CreateAttributes\obj\Debug\net7.0\CreateAttributes.AssemblyInfoInputs.cache
+C:\Users\Honor\Desktop\Programming\csMoreStudy\Reflection\CreateAttributes\obj\Debug\net7.0\CreateAttributes.AssemblyInfo.cs
+C:\Users\Honor\Desktop\Programming\csMoreStudy\Reflection\CreateAttributes\obj\Debug\net7.0\CreateAttributes.csproj.CoreCompileInputs.cache
+C:\Users\Honor\Desktop\Programming\csMoreStudy\Reflection\CreateAttributes\obj\Debug\net7.0\CreateAttributes.dll
+C:\Users\Honor\Desktop\Programming\csMoreStudy\Reflection\CreateAttributes\obj\Debug\net7.0\refint\CreateAttributes.dll
+C:\Users\Honor\Desktop\Programming\csMoreStudy\Reflection\CreateAttributes\obj\Debug\net7.0\CreateAttributes.pdb
+C:\Users\Honor\Desktop\Programming\csMoreStudy\Reflection\CreateAttributes\obj\Debug\net7.0\CreateAttributes.genruntimeconfig.cache
+C:\Users\Honor\Desktop\Programming\csMoreStudy\Reflection\CreateAttributes\obj\Debug\net7.0\ref\CreateAttributes.dll
