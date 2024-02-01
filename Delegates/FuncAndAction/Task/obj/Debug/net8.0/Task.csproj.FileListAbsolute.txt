@@ -1,0 +1,15 @@
+C:\Users\Honor\Desktop\Programming\csMoreStudy\Delegates\FuncAndAction\Task\bin\Debug\net8.0\Task.exe
+C:\Users\Honor\Desktop\Programming\csMoreStudy\Delegates\FuncAndAction\Task\bin\Debug\net8.0\Task.deps.json
+C:\Users\Honor\Desktop\Programming\csMoreStudy\Delegates\FuncAndAction\Task\bin\Debug\net8.0\Task.runtimeconfig.json
+C:\Users\Honor\Desktop\Programming\csMoreStudy\Delegates\FuncAndAction\Task\bin\Debug\net8.0\Task.dll
+C:\Users\Honor\Desktop\Programming\csMoreStudy\Delegates\FuncAndAction\Task\bin\Debug\net8.0\Task.pdb
+C:\Users\Honor\Desktop\Programming\csMoreStudy\Delegates\FuncAndAction\Task\obj\Debug\net8.0\Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Honor\Desktop\Programming\csMoreStudy\Delegates\FuncAndAction\Task\obj\Debug\net8.0\Task.AssemblyInfoInputs.cache
+C:\Users\Honor\Desktop\Programming\csMoreStudy\Delegates\FuncAndAction\Task\obj\Debug\net8.0\Task.AssemblyInfo.cs
+C:\Users\Honor\Desktop\Programming\csMoreStudy\Delegates\FuncAndAction\Task\obj\Debug\net8.0\Task.csproj.CoreCompileInputs.cache
+C:\Users\Honor\Desktop\Programming\csMoreStudy\Delegates\FuncAndAction\Task\obj\Debug\net8.0\Task.sourcelink.json
+C:\Users\Honor\Desktop\Programming\csMoreStudy\Delegates\FuncAndAction\Task\obj\Debug\net8.0\Task.dll
+C:\Users\Honor\Desktop\Programming\csMoreStudy\Delegates\FuncAndAction\Task\obj\Debug\net8.0\refint\Task.dll
+C:\Users\Honor\Desktop\Programming\csMoreStudy\Delegates\FuncAndAction\Task\obj\Debug\net8.0\Task.pdb
+C:\Users\Honor\Desktop\Programming\csMoreStudy\Delegates\FuncAndAction\Task\obj\Debug\net8.0\Task.genruntimeconfig.cache
+C:\Users\Honor\Desktop\Programming\csMoreStudy\Delegates\FuncAndAction\Task\obj\Debug\net8.0\ref\Task.dll
