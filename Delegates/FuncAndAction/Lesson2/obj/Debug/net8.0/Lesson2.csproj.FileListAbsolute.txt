@@ -1,0 +1,15 @@
+C:\Users\Honor\Desktop\Programming\csMoreStudy\Delegates\FuncAndAction\Lesson2\bin\Debug\net8.0\Lesson2.exe
+C:\Users\Honor\Desktop\Programming\csMoreStudy\Delegates\FuncAndAction\Lesson2\bin\Debug\net8.0\Lesson2.deps.json
+C:\Users\Honor\Desktop\Programming\csMoreStudy\Delegates\FuncAndAction\Lesson2\bin\Debug\net8.0\Lesson2.runtimeconfig.json
+C:\Users\Honor\Desktop\Programming\csMoreStudy\Delegates\FuncAndAction\Lesson2\bin\Debug\net8.0\Lesson2.dll
+C:\Users\Honor\Desktop\Programming\csMoreStudy\Delegates\FuncAndAction\Lesson2\bin\Debug\net8.0\Lesson2.pdb
+C:\Users\Honor\Desktop\Programming\csMoreStudy\Delegates\FuncAndAction\Lesson2\obj\Debug\net8.0\Lesson2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Honor\Desktop\Programming\csMoreStudy\Delegates\FuncAndAction\Lesson2\obj\Debug\net8.0\Lesson2.AssemblyInfoInputs.cache
+C:\Users\Honor\Desktop\Programming\csMoreStudy\Delegates\FuncAndAction\Lesson2\obj\Debug\net8.0\Lesson2.AssemblyInfo.cs
+C:\Users\Honor\Desktop\Programming\csMoreStudy\Delegates\FuncAndAction\Lesson2\obj\Debug\net8.0\Lesson2.csproj.CoreCompileInputs.cache
+C:\Users\Honor\Desktop\Programming\csMoreStudy\Delegates\FuncAndAction\Lesson2\obj\Debug\net8.0\Lesson2.sourcelink.json
+C:\Users\Honor\Desktop\Programming\csMoreStudy\Delegates\FuncAndAction\Lesson2\obj\Debug\net8.0\Lesson2.dll
+C:\Users\Honor\Desktop\Programming\csMoreStudy\Delegates\FuncAndAction\Lesson2\obj\Debug\net8.0\refint\Lesson2.dll
+C:\Users\Honor\Desktop\Programming\csMoreStudy\Delegates\FuncAndAction\Lesson2\obj\Debug\net8.0\Lesson2.pdb
+C:\Users\Honor\Desktop\Programming\csMoreStudy\Delegates\FuncAndAction\Lesson2\obj\Debug\net8.0\Lesson2.genruntimeconfig.cache
+C:\Users\Honor\Desktop\Programming\csMoreStudy\Delegates\FuncAndAction\Lesson2\obj\Debug\net8.0\ref\Lesson2.dll
