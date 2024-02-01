@@ -1,0 +1,15 @@
+C:\Users\Honor\Desktop\Programming\csMoreStudy\WorkWith_\Yield\FirstLesson\bin\Debug\net8.0\FirstLesson.exe
+C:\Users\Honor\Desktop\Programming\csMoreStudy\WorkWith_\Yield\FirstLesson\bin\Debug\net8.0\FirstLesson.deps.json
+C:\Users\Honor\Desktop\Programming\csMoreStudy\WorkWith_\Yield\FirstLesson\bin\Debug\net8.0\FirstLesson.runtimeconfig.json
+C:\Users\Honor\Desktop\Programming\csMoreStudy\WorkWith_\Yield\FirstLesson\bin\Debug\net8.0\FirstLesson.dll
+C:\Users\Honor\Desktop\Programming\csMoreStudy\WorkWith_\Yield\FirstLesson\bin\Debug\net8.0\FirstLesson.pdb
+C:\Users\Honor\Desktop\Programming\csMoreStudy\WorkWith_\Yield\FirstLesson\obj\Debug\net8.0\FirstLesson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Honor\Desktop\Programming\csMoreStudy\WorkWith_\Yield\FirstLesson\obj\Debug\net8.0\FirstLesson.AssemblyInfoInputs.cache
+C:\Users\Honor\Desktop\Programming\csMoreStudy\WorkWith_\Yield\FirstLesson\obj\Debug\net8.0\FirstLesson.AssemblyInfo.cs
+C:\Users\Honor\Desktop\Programming\csMoreStudy\WorkWith_\Yield\FirstLesson\obj\Debug\net8.0\FirstLesson.csproj.CoreCompileInputs.cache
+C:\Users\Honor\Desktop\Programming\csMoreStudy\WorkWith_\Yield\FirstLesson\obj\Debug\net8.0\FirstLesson.sourcelink.json
+C:\Users\Honor\Desktop\Programming\csMoreStudy\WorkWith_\Yield\FirstLesson\obj\Debug\net8.0\FirstLesson.dll
+C:\Users\Honor\Desktop\Programming\csMoreStudy\WorkWith_\Yield\FirstLesson\obj\Debug\net8.0\refint\FirstLesson.dll
+C:\Users\Honor\Desktop\Programming\csMoreStudy\WorkWith_\Yield\FirstLesson\obj\Debug\net8.0\FirstLesson.pdb
+C:\Users\Honor\Desktop\Programming\csMoreStudy\WorkWith_\Yield\FirstLesson\obj\Debug\net8.0\FirstLesson.genruntimeconfig.cache
+C:\Users\Honor\Desktop\Programming\csMoreStudy\WorkWith_\Yield\FirstLesson\obj\Debug\net8.0\ref\FirstLesson.dll
