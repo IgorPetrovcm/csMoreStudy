@@ -1,0 +1,15 @@
+C:\Users\igorp\Programming\csMoreStudy\IO\ZipFile\Ruined\bin\Debug\net8.0\Ruined.exe
+C:\Users\igorp\Programming\csMoreStudy\IO\ZipFile\Ruined\bin\Debug\net8.0\Ruined.deps.json
+C:\Users\igorp\Programming\csMoreStudy\IO\ZipFile\Ruined\bin\Debug\net8.0\Ruined.runtimeconfig.json
+C:\Users\igorp\Programming\csMoreStudy\IO\ZipFile\Ruined\bin\Debug\net8.0\Ruined.dll
+C:\Users\igorp\Programming\csMoreStudy\IO\ZipFile\Ruined\bin\Debug\net8.0\Ruined.pdb
+C:\Users\igorp\Programming\csMoreStudy\IO\ZipFile\Ruined\obj\Debug\net8.0\Ruined.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igorp\Programming\csMoreStudy\IO\ZipFile\Ruined\obj\Debug\net8.0\Ruined.AssemblyInfoInputs.cache
+C:\Users\igorp\Programming\csMoreStudy\IO\ZipFile\Ruined\obj\Debug\net8.0\Ruined.AssemblyInfo.cs
+C:\Users\igorp\Programming\csMoreStudy\IO\ZipFile\Ruined\obj\Debug\net8.0\Ruined.csproj.CoreCompileInputs.cache
+C:\Users\igorp\Programming\csMoreStudy\IO\ZipFile\Ruined\obj\Debug\net8.0\Ruined.sourcelink.json
+C:\Users\igorp\Programming\csMoreStudy\IO\ZipFile\Ruined\obj\Debug\net8.0\Ruined.dll
+C:\Users\igorp\Programming\csMoreStudy\IO\ZipFile\Ruined\obj\Debug\net8.0\refint\Ruined.dll
+C:\Users\igorp\Programming\csMoreStudy\IO\ZipFile\Ruined\obj\Debug\net8.0\Ruined.pdb
+C:\Users\igorp\Programming\csMoreStudy\IO\ZipFile\Ruined\obj\Debug\net8.0\Ruined.genruntimeconfig.cache
+C:\Users\igorp\Programming\csMoreStudy\IO\ZipFile\Ruined\obj\Debug\net8.0\ref\Ruined.dll
