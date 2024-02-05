@@ -1,0 +1,15 @@
+C:\Users\igorp\Programming\csMoreStudy\IO\Encoding\ConvertNewEncoding\bin\Debug\net8.0\ConvertNewEncoding.exe
+C:\Users\igorp\Programming\csMoreStudy\IO\Encoding\ConvertNewEncoding\bin\Debug\net8.0\ConvertNewEncoding.deps.json
+C:\Users\igorp\Programming\csMoreStudy\IO\Encoding\ConvertNewEncoding\bin\Debug\net8.0\ConvertNewEncoding.runtimeconfig.json
+C:\Users\igorp\Programming\csMoreStudy\IO\Encoding\ConvertNewEncoding\bin\Debug\net8.0\ConvertNewEncoding.dll
+C:\Users\igorp\Programming\csMoreStudy\IO\Encoding\ConvertNewEncoding\bin\Debug\net8.0\ConvertNewEncoding.pdb
+C:\Users\igorp\Programming\csMoreStudy\IO\Encoding\ConvertNewEncoding\obj\Debug\net8.0\ConvertNewEncoding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igorp\Programming\csMoreStudy\IO\Encoding\ConvertNewEncoding\obj\Debug\net8.0\ConvertNewEncoding.AssemblyInfoInputs.cache
+C:\Users\igorp\Programming\csMoreStudy\IO\Encoding\ConvertNewEncoding\obj\Debug\net8.0\ConvertNewEncoding.AssemblyInfo.cs
+C:\Users\igorp\Programming\csMoreStudy\IO\Encoding\ConvertNewEncoding\obj\Debug\net8.0\ConvertNewEncoding.csproj.CoreCompileInputs.cache
+C:\Users\igorp\Programming\csMoreStudy\IO\Encoding\ConvertNewEncoding\obj\Debug\net8.0\ConvertNewEncoding.sourcelink.json
+C:\Users\igorp\Programming\csMoreStudy\IO\Encoding\ConvertNewEncoding\obj\Debug\net8.0\ConvertNewEncoding.dll
+C:\Users\igorp\Programming\csMoreStudy\IO\Encoding\ConvertNewEncoding\obj\Debug\net8.0\refint\ConvertNewEncoding.dll
+C:\Users\igorp\Programming\csMoreStudy\IO\Encoding\ConvertNewEncoding\obj\Debug\net8.0\ConvertNewEncoding.pdb
+C:\Users\igorp\Programming\csMoreStudy\IO\Encoding\ConvertNewEncoding\obj\Debug\net8.0\ConvertNewEncoding.genruntimeconfig.cache
+C:\Users\igorp\Programming\csMoreStudy\IO\Encoding\ConvertNewEncoding\obj\Debug\net8.0\ref\ConvertNewEncoding.dll
