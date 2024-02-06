@@ -7,7 +7,7 @@ public class Program
     static void Main()
     {
         //Разорхивация
-        //ZipFile.ExtractToDirectory("48.zip","extract/");
+        ZipFile.ExtractToDirectory("48.zip","extract/");
 
         //Архивация
         ZipFile.CreateFromDirectory("extract","newZip.zip");

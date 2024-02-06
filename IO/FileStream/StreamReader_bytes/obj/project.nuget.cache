@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "ObOudAHc0JmRAKjLNbIEgaXPB+rfZsbVOgyHeDxlpw54HxEQNGUbWVfGEBGqDFI1Cly8VCvSqalQDGdhSB043A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\igorp\\Programming\\CodeMasterTasks\\WorkWithFiles\\Task_1\\Task_1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\igorp\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.15\\microsoft.netcore.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\igorp\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.15\\microsoft.windowsdesktop.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\igorp\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.15\\microsoft.aspnetcore.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\igorp\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.15\\microsoft.netcore.app.host.win-x64.7.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
