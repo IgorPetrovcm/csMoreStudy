@@ -1,0 +1,15 @@
+C:\Users\igorp\Programming\csMoreStudy\WorkWith_\Regex_Groups\Non-tradableGroups\bin\Debug\net8.0\Non-tradableGroups.exe
+C:\Users\igorp\Programming\csMoreStudy\WorkWith_\Regex_Groups\Non-tradableGroups\bin\Debug\net8.0\Non-tradableGroups.deps.json
+C:\Users\igorp\Programming\csMoreStudy\WorkWith_\Regex_Groups\Non-tradableGroups\bin\Debug\net8.0\Non-tradableGroups.runtimeconfig.json
+C:\Users\igorp\Programming\csMoreStudy\WorkWith_\Regex_Groups\Non-tradableGroups\bin\Debug\net8.0\Non-tradableGroups.dll
+C:\Users\igorp\Programming\csMoreStudy\WorkWith_\Regex_Groups\Non-tradableGroups\bin\Debug\net8.0\Non-tradableGroups.pdb
+C:\Users\igorp\Programming\csMoreStudy\WorkWith_\Regex_Groups\Non-tradableGroups\obj\Debug\net8.0\Non-tradableGroups.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igorp\Programming\csMoreStudy\WorkWith_\Regex_Groups\Non-tradableGroups\obj\Debug\net8.0\Non-tradableGroups.AssemblyInfoInputs.cache
+C:\Users\igorp\Programming\csMoreStudy\WorkWith_\Regex_Groups\Non-tradableGroups\obj\Debug\net8.0\Non-tradableGroups.AssemblyInfo.cs
+C:\Users\igorp\Programming\csMoreStudy\WorkWith_\Regex_Groups\Non-tradableGroups\obj\Debug\net8.0\Non-tradableGroups.csproj.CoreCompileInputs.cache
+C:\Users\igorp\Programming\csMoreStudy\WorkWith_\Regex_Groups\Non-tradableGroups\obj\Debug\net8.0\Non-tradableGroups.sourcelink.json
+C:\Users\igorp\Programming\csMoreStudy\WorkWith_\Regex_Groups\Non-tradableGroups\obj\Debug\net8.0\Non-tradableGroups.dll
+C:\Users\igorp\Programming\csMoreStudy\WorkWith_\Regex_Groups\Non-tradableGroups\obj\Debug\net8.0\refint\Non-tradableGroups.dll
+C:\Users\igorp\Programming\csMoreStudy\WorkWith_\Regex_Groups\Non-tradableGroups\obj\Debug\net8.0\Non-tradableGroups.pdb
+C:\Users\igorp\Programming\csMoreStudy\WorkWith_\Regex_Groups\Non-tradableGroups\obj\Debug\net8.0\Non-tradableGroups.genruntimeconfig.cache
+C:\Users\igorp\Programming\csMoreStudy\WorkWith_\Regex_Groups\Non-tradableGroups\obj\Debug\net8.0\ref\Non-tradableGroups.dll

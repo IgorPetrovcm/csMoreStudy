@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Non-tradableGroups", "Non-tradableGroups.csproj", "{D994B085-36AD-4D4D-8F5D-FB26CB1F13EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D994B085-36AD-4D4D-8F5D-FB26CB1F13EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D994B085-36AD-4D4D-8F5D-FB26CB1F13EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D994B085-36AD-4D4D-8F5D-FB26CB1F13EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D994B085-36AD-4D4D-8F5D-FB26CB1F13EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {933B72E3-7DF4-4538-BB26-32724270B9AF}
+	EndGlobalSection
+EndGlobal
