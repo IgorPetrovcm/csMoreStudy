@@ -1,0 +1,15 @@
+C:\Users\igorp\Programming\csMoreStudy\IO\GetNetVersion\bin\Debug\net8.0\GetNetVersion.exe
+C:\Users\igorp\Programming\csMoreStudy\IO\GetNetVersion\bin\Debug\net8.0\GetNetVersion.deps.json
+C:\Users\igorp\Programming\csMoreStudy\IO\GetNetVersion\bin\Debug\net8.0\GetNetVersion.runtimeconfig.json
+C:\Users\igorp\Programming\csMoreStudy\IO\GetNetVersion\bin\Debug\net8.0\GetNetVersion.dll
+C:\Users\igorp\Programming\csMoreStudy\IO\GetNetVersion\bin\Debug\net8.0\GetNetVersion.pdb
+C:\Users\igorp\Programming\csMoreStudy\IO\GetNetVersion\obj\Debug\net8.0\GetNetVersion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igorp\Programming\csMoreStudy\IO\GetNetVersion\obj\Debug\net8.0\GetNetVersion.AssemblyInfoInputs.cache
+C:\Users\igorp\Programming\csMoreStudy\IO\GetNetVersion\obj\Debug\net8.0\GetNetVersion.AssemblyInfo.cs
+C:\Users\igorp\Programming\csMoreStudy\IO\GetNetVersion\obj\Debug\net8.0\GetNetVersion.csproj.CoreCompileInputs.cache
+C:\Users\igorp\Programming\csMoreStudy\IO\GetNetVersion\obj\Debug\net8.0\GetNetVersion.sourcelink.json
+C:\Users\igorp\Programming\csMoreStudy\IO\GetNetVersion\obj\Debug\net8.0\GetNetVersion.dll
+C:\Users\igorp\Programming\csMoreStudy\IO\GetNetVersion\obj\Debug\net8.0\refint\GetNetVersion.dll
+C:\Users\igorp\Programming\csMoreStudy\IO\GetNetVersion\obj\Debug\net8.0\GetNetVersion.pdb
+C:\Users\igorp\Programming\csMoreStudy\IO\GetNetVersion\obj\Debug\net8.0\GetNetVersion.genruntimeconfig.cache
+C:\Users\igorp\Programming\csMoreStudy\IO\GetNetVersion\obj\Debug\net8.0\ref\GetNetVersion.dll
