@@ -1,0 +1,59 @@
+<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:vm="using:Start.ViewModels"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
+        x:Class="Start.Views.MainWindow"
+        x:DataType="vm:MainWindowViewModel"
+        Icon="/Assets/avalonia-logo.ico"
+        Title="Start">
+
+    <Design.DataContext>
+        <!-- This only sets the DataContext for the previewer in an IDE,
+             to set the actual DataContext for runtime, set the DataContext property in code (look at App.axaml.cs) -->
+        <vm:MainWindowViewModel/>
+    </Design.DataContext>
+
+
+  <!--<StackPanel>
+      <Border
+        Background="Coral"
+        CornerRadius="10"
+        Margin=""> 
+        <TextBlock
+          Margin="10"
+          HorizontalAlignment="Center"
+          Text="Test Text Block">
+        </TextBlock>
+      </Border>
+      <Border
+        Margin="10">
+        <Button HorizontalAlignment="Center">Button</Button>
+      </Border>
+    </StackPanel> -->
+  <Grid
+    ShowGridLines="True"
+    Margin="5"
+    ColumnDefinitions="120, 100"
+    RowDefinitions="Auto, Auto, Auto">
+
+    <Border
+      Margin="5">
+      <Label
+        Grid.Row="0"
+        Grid.Column="0"
+        Margin="10">
+        Hello
+      </Label>
+      <!--
+      <TextBox 
+        HorizontalAlignment="Left" 
+        VerticalAlignment="Center"
+        Grid.Column="0"
+        Grid.Row="0">
+      </TextBox>-->
+    </Border>
+  </Grid>
+
+</Window>
