@@ -10,10 +10,6 @@ public class Program
     {
         TestClass testClass = new TestClass();
 
-        testClass.operationEvent += (x) => x + x;
-
-        testClass.operationEvent += (x) => x * x;
-
         Console.WriteLine(testClass.PrintOperation(5));
     }
 }
@@ -35,6 +31,8 @@ public class TestClass
 
     public double PrintOperation(int a)
     {
+        if (operationEvent == null)
+            return 0;
         return operationEvent.Invoke(a);
     }
 }
