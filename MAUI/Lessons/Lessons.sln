@@ -7,7 +7,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FirstApp", "FirstApp\FirstA
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Controls", "Controls\Controls.csproj", "{A35804E9-6A0B-4D09-A001-BC3676FCF0EA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Binding", "Binding\Binding.csproj", "{67B64F08-59D2-4F0F-A396-06E3041ED51A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Binding", "Binding\Binding.csproj", "{67B64F08-59D2-4F0F-A396-06E3041ED51A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Triggers", "Triggers\Triggers.csproj", "{5B850BE3-F8E8-49F3-B2E3-256340CEA753}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,12 @@ Global
 		{67B64F08-59D2-4F0F-A396-06E3041ED51A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{67B64F08-59D2-4F0F-A396-06E3041ED51A}.Release|Any CPU.Build.0 = Release|Any CPU
 		{67B64F08-59D2-4F0F-A396-06E3041ED51A}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{5B850BE3-F8E8-49F3-B2E3-256340CEA753}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B850BE3-F8E8-49F3-B2E3-256340CEA753}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B850BE3-F8E8-49F3-B2E3-256340CEA753}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{5B850BE3-F8E8-49F3-B2E3-256340CEA753}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B850BE3-F8E8-49F3-B2E3-256340CEA753}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B850BE3-F8E8-49F3-B2E3-256340CEA753}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
