@@ -1,6 +1,6 @@
 ﻿using Microsoft.Extensions.Logging;
 
-namespace Calculator
+namespace DynamicView
 {
 	public static class MauiProgram
 	{

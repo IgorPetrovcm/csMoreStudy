@@ -1,4 +1,4 @@
-﻿namespace Calculator
+﻿namespace DynamicView
 {
 	public partial class AppShell : Shell
 	{
