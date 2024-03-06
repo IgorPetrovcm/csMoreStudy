@@ -11,7 +11,7 @@ namespace DynamicView
 			InitializeComponent();
 		}
 
-		public void btnAddQuestion_Clicked(object sender, EventArgs e)
+		public void btnAddQuestion_Clicked(object? sender, EventArgs e)
 		{
 			Border border = new Border()
 			{
@@ -25,8 +25,26 @@ namespace DynamicView
 
 			Label lable1 = new Label() { Text = "Question " + count, HorizontalOptions = LayoutOptions.Start, VerticalOptions = LayoutOptions.Start, FontSize = 20, FontAttributes = FontAttributes.Bold };
 
-			VerticalStackLayout stack = new VerticalStackLayout();
+			HorizontalStackLayout horizontalStack = new HorizontalStackLayout();
+
+			Label label2 = new Label() { Text = "Question: ", HorizontalOptions = LayoutOptions.Start, VerticalOptions = LayoutOptions.Start, FontSize = 17, Margin = new Thickness(0, 5, 0, 0) };
+
+			Entry question = new Entry() { WidthRequest = 700, ClassId = "question" + count};
+			Button btnAddAnswerOption = new Button() { Text = "Add Answer Option", Margin = new Thickness(50, 0, 0, 0) };
+
+			int currentCount = count;
+
+			btnAddAnswerOption.Clicked += (x, y) => btnAddAnswerOption_Clicked(btnAddAnswerOption, currentCount);
+
+			horizontalStack.Children.Add(label2);
+			horizontalStack.Children.Add(question);
+			horizontalStack.Children.Add(btnAddAnswerOption);
+
+			HorizontalStackLayout radious = new HorizontalStackLayout() { ClassId = "radios" };
+
+			VerticalStackLayout stack = new VerticalStackLayout() { ClassId = "stack" + count};
 			stack.Children.Add(lable1);
+			stack.Children.Add(horizontalStack);
 
 			ScrollView newView = new ScrollView();
 			newView.Content = stack;
@@ -36,6 +54,37 @@ namespace DynamicView
 			mainStack.Children.Add(border);
 
 			count++;
+		}
+
+		public void btnAddAnswerOption_Clicked(object? sender, int count)
+		{
+			Button btn = (Button)sender;
+
+			IList<IView> views = mainStack.Children;
+
+			foreach (IView view in views)
+			{
+				if (view is Border)
+				{
+					Border border = (Border)view;
+					ScrollView scroll = border.Content as ScrollView;
+
+					VerticalStackLayout stack = scroll.Content as VerticalStackLayout;
+
+					foreach (IView child in stack.Children)
+					{
+						if (child is HorizontalStackLayout)
+						{
+							HorizontalStackLayout horizontal = (HorizontalStackLayout)child;
+
+							if (horizontal.ClassId == "radios")
+							{
+
+							}
+						}
+					}
+				}
+			}
 		}
 	}
 

@@ -5,6 +5,8 @@
     <ScrollView>
         <VerticalStackLayout x:Name="mainStack">
             <Button HorizontalOptions="Start" VerticalOptions="Start" WidthRequest="300" Text="Add Question" Clicked="btnAddQuestion_Clicked" ></Button>
+            <RadioButton>
+                <Entry></Entry></RadioButton>
         </VerticalStackLayout>
     </ScrollView>
 
