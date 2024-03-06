@@ -1,10 +1,13 @@
 ﻿using Microsoft.Maui.Controls.Shapes;
+using Windows.Devices.Radios;
 
 namespace DynamicView
 {
 	public partial class MainPage : ContentPage
 	{
 		int count = 1;
+
+		int radioButtonsCount = 0;
 
 		public MainPage()
 		{
@@ -15,7 +18,7 @@ namespace DynamicView
 		{
 			Border border = new Border()
 			{
-				HeightRequest = 200,
+				HeightRequest = 400,
 				WidthRequest = 1000,
 				HorizontalOptions = LayoutOptions.Start,
 				StrokeShape = new RoundRectangle() { CornerRadius = 10},
@@ -40,11 +43,12 @@ namespace DynamicView
 			horizontalStack.Children.Add(question);
 			horizontalStack.Children.Add(btnAddAnswerOption);
 
-			HorizontalStackLayout radious = new HorizontalStackLayout() { ClassId = "radios" };
+			VerticalStackLayout radious = new VerticalStackLayout() { ClassId = "radios" };
 
 			VerticalStackLayout stack = new VerticalStackLayout() { ClassId = "stack" + count};
 			stack.Children.Add(lable1);
 			stack.Children.Add(horizontalStack);
+			stack.Children.Add(radious);
 
 			ScrollView newView = new ScrollView();
 			newView.Content = stack;
@@ -73,16 +77,27 @@ namespace DynamicView
 
 					foreach (IView child in stack.Children)
 					{
-						if (child is HorizontalStackLayout)
+						if (child is VerticalStackLayout)
 						{
-							HorizontalStackLayout horizontal = (HorizontalStackLayout)child;
+							VerticalStackLayout horizontal = (VerticalStackLayout)child;
 
 							if (horizontal.ClassId == "radios")
 							{
+								RadioButton radio = new RadioButton() { Margin = new Thickness(5,0,0,0), GroupName = radioButtonsCount.ToString()};
+								Entry entry = new Entry();
 
+								radio.BindingContext = entry;
+								radio.SetBinding(RadioButton.ContentProperty, "Text");
+
+								horizontal.Children.Add(radio);
+								horizontal.Children.Add(entry);
+
+								radioButtonsCount++;
 							}
 						}
 					}
+
+					break;
 				}
 			}
 		}
