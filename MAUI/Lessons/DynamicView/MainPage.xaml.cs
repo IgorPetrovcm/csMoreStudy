@@ -1,13 +1,10 @@
 ﻿using Microsoft.Maui.Controls.Shapes;
-using Windows.Devices.Radios;
 
 namespace DynamicView
 {
 	public partial class MainPage : ContentPage
 	{
 		int count = 1;
-
-		int radioButtonsCount = 0;
 
 		public MainPage()
 		{
@@ -83,16 +80,14 @@ namespace DynamicView
 
 							if (horizontal.ClassId == "radios")
 							{
-								RadioButton radio = new RadioButton() { Margin = new Thickness(5,0,0,0), GroupName = radioButtonsCount.ToString()};
+								CheckBox checkBox = new CheckBox();
 								Entry entry = new Entry();
 
-								radio.BindingContext = entry;
-								radio.SetBinding(RadioButton.ContentProperty, "Text");
+								checkBox.BindingContext = entry;
+								checkBox.SetBinding(RadioButton.ContentProperty, "Text");
 
-								horizontal.Children.Add(radio);
+								horizontal.Children.Add(checkBox);
 								horizontal.Children.Add(entry);
-
-								radioButtonsCount++;
 							}
 						}
 					}
